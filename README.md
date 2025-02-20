@@ -7,7 +7,7 @@
 </p1>
 
 Linux side :
-For websocket application install library <libboost-all-dev> and <json>
+For websocket application install library "<"libboost-all-dev">" and "<"json">"
 
 ESP32 side
 Arduino framework with websocket server.
